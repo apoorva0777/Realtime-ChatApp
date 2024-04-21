@@ -57,7 +57,8 @@ a {
 
 .chat-container {
 	max-width: 1100px;
-	background: #fff;
+	background: rgba(255, 255, 255,0.8);
+	background-image: url(https://www.shutterstock.com/image-vector/social-media-sketch-vector-seamless-600nw-1660950727.jpg);
 	margin: 30px auto;
 	overflow: hidden;
 }
